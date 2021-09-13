@@ -7,6 +7,6 @@
 Basically, I do what I want cause I'm signed to EM/ME!
 
 <!---
-em143/em143 is a ✨ special ✨ repository because its `README.md` (me,ireadit) appears on your GitHub profile.
+em143 aka Mac Milian is a ✨ special ✨ repository because its `README.md` (me,ireadit) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
